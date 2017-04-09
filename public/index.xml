@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet Infra News</title>
+    <link>https://netinfra.news/index.xml</link>
+    <description>Recent content on Internet Infra News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Apr 2017 09:30:00 -0700</lastBuildDate>
+    <atom:link href="https://netinfra.news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome to netinfra.news</title>
+      <link>https://netinfra.news/post/welcome/</link>
+      <pubDate>Sun, 09 Apr 2017 09:30:00 -0700</pubDate>
+      
+      <guid>https://netinfra.news/post/welcome/</guid>
+      <description>&lt;p&gt;Welcome to netinfra.news, a blog and email newsletter dedicated to delivering an aggregation of interesting Internet and Networking news.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
