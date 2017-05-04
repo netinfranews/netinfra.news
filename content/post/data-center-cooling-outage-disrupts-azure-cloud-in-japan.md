@@ -4,6 +4,8 @@ draft = false
 title = "Data Center Cooling Outage Disrupts Azure Cloud in Japan"
 +++
 
+<a href="http://www.datacenterknowledge.com/archives/2017/03/31/data-center-cooling-outage-disrupts-azure-cloud-in-japan/">Link to original post</a>
+
 A long list of Microsoft Azure cloud services malfunctioned for hours Friday for a subset of customers using services hosted in a Microsoft data center in Japan due to a cooling system outage that was caused by a failed RUPS (rotary uninterruptible power supply).
 
 Customers had trouble connecting to resources that leverage storage infrastructure in the Japan East region, according to an update on the Azure status website. Both storage and virtual machines were impacted, along with many more cloud services, such as Web Apps, Backup, HDInsight, Key Vault, and Site Recovery. Issues included unavailability of virtual machines and VM reboots.
