@@ -1,6 +1,6 @@
 baseurl = "https://netinfra.news" # Controls base URL
 languageCode = "en-US" # Controls html lang attribute
-title = "Internet Infra News" # Homepage title and page title suffix
+title = "Internet Infrastructure News" # Homepage title and page title suffix
 paginate = 5 # Number of posts to show before paginating
 
 theme = "after-dark" # Uncomment to use as default theme

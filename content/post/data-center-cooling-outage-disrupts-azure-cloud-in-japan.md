@@ -2,6 +2,7 @@
 date = "2017-03-31"
 draft = false
 title = "Data Center Cooling Outage Disrupts Azure Cloud in Japan"
+author = "DrewT"
 +++
 
 A long list of Microsoft Azure cloud services malfunctioned for hours Friday for a subset of customers using services hosted in a Microsoft data center in Japan due to a cooling system outage that was caused by a failed RUPS (rotary uninterruptible power supply).
